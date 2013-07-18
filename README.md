@@ -1,4 +1,4 @@
 git_an_adventure
 ================
 
-This is a HTML collaborative text adventure for learning how to use git and github
+This is a collaborative HTML text adventure for learning how to use git and github
