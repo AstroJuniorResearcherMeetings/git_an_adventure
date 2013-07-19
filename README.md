@@ -11,6 +11,7 @@ ______________________________________________
 
 * Don't delete files once they are created 
 * Don't delete someone's actions (only add actions)
+* You can't put photos into the directory (by url link only)
 * Keep it clean 
 * Have fun!
 
