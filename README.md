@@ -66,10 +66,18 @@ ______________________________________________
 __Tips__
 ______________________________________________
 
+Set git config global variables of the user name and email
+
+	git --global user.name "My Name"
+	git --global user.email "my_email@utah.edu"
+
 To check the status of your directory
 
-
 	git status
+
+To check the past commits of the directory
+
+	git log
 
 For help on any git command type --help
 
@@ -82,4 +90,5 @@ For help on any git command type --help
 Keep the git figure in mind. Each arrow is a git command (e.g. git add ==> puts files from the working directory to the cache)
 
 <img src="http://www.308tube.com/youtube/github/img/Git_flow.png">
+
 
