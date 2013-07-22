@@ -7,8 +7,8 @@ __1)__ Clone the repository
 
 __2)__ Set git globals
 
-	git --globals user.name "my name"
-	git --globals user.email "myemail@utah.edu"
+	git config --global user.name "my name"
+	git config --global user.email "myemail@utah.edu"
 
 __3)__ Open the README.md in the respository
 
