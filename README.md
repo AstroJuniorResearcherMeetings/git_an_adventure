@@ -6,7 +6,7 @@ This is a collaborative HTML text adventure for learning how to use git and gith
 <br>
 <br>
 
-__RULES__
+__RULES FOR THE ADVENTURE__
 ______________________________________________
 
 * Don't delete files once they are created 
