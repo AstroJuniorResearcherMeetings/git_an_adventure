@@ -30,7 +30,7 @@ ______________________________________________
 
 1.2) Try running the adventure by
 
-	In Web Browser (e.g. firefox) ==> File ==> Open File ==> git_an_adventure/START.html
+	In Web Browser (e.g. firefox) ==> File ==> Open File ==> git_an_adventure/index.html
 
 2) Change/create a file by copying the template.html then modifying
 
