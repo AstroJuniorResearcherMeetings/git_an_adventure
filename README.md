@@ -89,6 +89,6 @@ For help on any git command type --help
 
 Keep the git figure in mind. Each arrow is a git command (e.g. git add ==> puts files from the working directory to the cache)
 
-<img src="http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&docid=hP8ChnqWJW7YgM&tbnid=WBmU-kyC3jlfWM:&ved=0CAUQjRw&url=http%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGit_data_flow.png&ei=SwvXU87fKsGQyASHlYLADQ&psig=AFQjCNFBp5nETMLaWysN_gyaPtUQF5spCQ&ust=1406688418203484">
 
+![Git Flow Diagram](Git\ Flow\ Diagram.png)
 
